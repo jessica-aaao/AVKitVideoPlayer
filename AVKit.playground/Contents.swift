@@ -1,5 +1,5 @@
 //: A UIKit based Playground for presenting user interface
-
+//OS VÍDEOS DESSE PLAYGROUND FORAM BAIXADOS DO SITE: https://www.pexels.com/pt-br/
 import UIKit
 import PlaygroundSupport
 //Adicione a linha abaixo acima da declaração da Classe
